@@ -29,6 +29,7 @@ public class Cabudlay_MethodActivity {
         System.out.println("The Difference is: " + calculator(11.0, 11.0, '-'));
         System.out.println("The Product is: " + calculator(11.0, 11.0, '*'));
         System.out.println("The Quotient is: " + calculator(11.0,11.0,'/'));
+        System.out.println("Reymar Igop");
     }
 
 }
